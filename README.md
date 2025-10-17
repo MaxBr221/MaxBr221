@@ -1,16 +1,39 @@
-## Hi there 👋
+<h1 align="center">👋 Olá! Eu sou o Maxsuel</h1>
 
-<!--
-**MaxBr221/MaxBr221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🚀 Estudante de <b>Sistemas de Informação</b> e futuro desenvolvedor <b>Full Stack</b>.<br>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tecnologias que uso no dia a dia
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50px" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50px" alt="MySQL"/>
+</p>
+
+---
+
+### 📊 Estatísticas do GitHub
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Maxsuel&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxsuel&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+### 🔗 Onde me encontrar
+<p align="center">
+  <a href="mailto:maxsuel.lima@dcx.ufpb.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
+
+---
+
+### ⚡ Um pouco mais sobre mim 
+🎯 Foco em **Java**, **HTML**, **CSS** e **SQL**.  
+🧠 Estudando para dominar o **Spring Boot** e o **desenvolvimento Full Stack**.  
+
+
+---
