@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá! Eu sou o Maxsuel</h1>
 
 <p align="center">
-  🚀 Estudante de <b>Sistemas de Informação</b> e futuro desenvolvedor <b>Full Stack</b>.<br>
+  🚀 Estudante de <b>Sistemas de Informação na UFPB</b> e futuro desenvolvedor <b>Full Stack</b>.<br>
 </p>
 
 ---
