@@ -6,7 +6,7 @@
 
 ---
 
-### 💻 Tecnologias que uso no dia a dia
+### 💻 Tecnologias que estou usando atualmente
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50px" alt="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px" alt="HTML5"/>
