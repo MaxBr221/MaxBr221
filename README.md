@@ -9,6 +9,7 @@
 ### 💻 Tecnologias que estou usando atualmente
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50px" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50px" alt="Spring Boot"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px" alt="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50px" alt="MySQL"/>
@@ -33,8 +34,7 @@
 ---
 
 ### ⚡ Um pouco mais sobre mim 
-🎯 Foco em **Java**, **HTML**, **CSS** e **SQL**.  
-🧠 Estudando para dominar o **Spring Boot** e o **desenvolvimento Full Stack**.  
-
+🎯 Foco em **Java**, **Spring Boot**, **HTML**, **CSS** e **SQL**.  
+🧠 Estudando para dominar o desenvolvimento **Full Stack**.
 
 ---
