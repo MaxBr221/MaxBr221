@@ -29,6 +29,7 @@
 <p align="center">
   <a href="mailto:maxsuel.lima@dcx.ufpb.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.instagram.com/_maxsueel/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/maxsuel-de-lima-barbosa-5a27a635b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
 ---
@@ -36,5 +37,3 @@
 ### ⚡ Um pouco mais sobre mim 
 🎯 Foco em **Java**, **Spring Boot**, **HTML**, **CSS** e **SQL**.  
 🧠 Estudando para dominar o desenvolvimento **Full Stack**.
-
----
