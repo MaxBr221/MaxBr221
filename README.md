@@ -17,11 +17,11 @@
 </p>
 
 ---
-### 📊 GitHub em números
-<div align="center">
-  <img height="160em"
-       src="https://github-readme-stats.vercel.app/api?username=MaxBr221&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-</div>
+### 📌 Projetos em destaque
+- 🧔 Sistema de Agendamento de Barbearia (Java, javalin, thymeleaf, html/css, Mysql, js)
+- 🛒 Sistema de Caixa (Java, POO e regras de negócio)
+- 📚 Sistema de Biblioteca (Java, terminal, POO)
+
 
 
 ---
