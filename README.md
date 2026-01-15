@@ -1,39 +1,44 @@
-<h1 align="center">👋 Olá! Eu sou o Maxsuel</h1>
+<h1 align="center">👋 Olá, eu sou o Maxsuel</h1>
 
 <p align="center">
-  🚀 Estudante de <b>Sistemas de Informação na UFPB</b> e futuro desenvolvedor <b>Full Stack</b>.<br>
+  🎓 Estudante de <b>Sistemas de Informação (UFPB)</b><br>
+  💻 Desenvolvedor em formação com foco em <b>Java e desenvolvimento de software</b>
 </p>
 
 ---
 
-### 💻 Tecnologias que estou usando atualmente
+### 💻 Stack atual
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50px" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50px" alt="Spring Boot"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50px" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45px" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45px" alt="Spring Boot"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45px" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45px" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45px" alt="MySQL"/>
 </p>
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 GitHub em números
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Maxsuel&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxsuel&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MaxBr221&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxBr221&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
 
-### 🔗 Onde me encontrar
+### 🔗 Contato
 <p align="center">
-  <a href="mailto:maxsuel.lima@dcx.ufpb.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.instagram.com/_maxsueel/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/maxsuel-de-lima-barbosa-5a27a635b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:maxsuel.lima@dcx.ufpb.br">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/maxsuel-de-lima-barbosa-5a27a635b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 </p>
 
 ---
 
-### ⚡ Um pouco mais sobre mim 
-🎯 Foco em **Java**, **Spring Boot**, **HTML**, **CSS** e **SQL**.  
-🧠 Estudando para dominar o desenvolvimento **Full Stack**.
+### ⚡ Sobre mim
+- Foco em **Java**, **Spring Boot** e **SQL**
+- Experiência com projetos acadêmicos e pessoais
+- Estudando **Full Stack** com base sólida em backend
