@@ -20,11 +20,9 @@
 ### 📊 GitHub em números
 <div align="center">
   <img height="160em"
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MaxBr221&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-
-  <img height="160em"
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MaxBr221&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+       src="https://github-readme-stats.vercel.app/api?username=MaxBr221&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </div>
+
 
 ---
 
