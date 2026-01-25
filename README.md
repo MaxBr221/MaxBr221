@@ -18,9 +18,9 @@
 
 ---
 ### 📌 Projetos em destaque
-- 🧔 Sistema de Agendamento de Barbearia (Java, javalin, thymeleaf, html/css, Mysql, js)
-- 🛒 Sistema de Caixa (Java, POO e regras de negócio)
-- 📚 Sistema de Biblioteca (Java, terminal, POO)
+- 🧔 Sistema de Agendamento de Barbearia (JAVA, JAVALIN, THYMELEAF, HTML/CSS, MYSQL, JS)
+- 🛒 Sistema de Caixa (JAVA, POO e regras de negócio)
+- 📚 Sistema de Biblioteca (JAVA, terminal, POO)
 
 
 
