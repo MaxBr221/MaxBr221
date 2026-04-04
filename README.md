@@ -23,6 +23,7 @@
 - 🧔 Sistema de Agendamento de Barbearia (JAVA, JAVALIN, THYMELEAF, HTML/CSS, MYSQL, JS)
 - 🛒 Sistema de Caixa (JAVA, POO e regras de negócio)
 - 📚 Sistema de Biblioteca (JAVA, terminal, POO)
+- 🏹 Sistema de Turismo Indigena (JAVA, SPRING BOOT, JPA, FLYWAY, HIBERNATE, TESTE UNITÁRIOS, MYSQL, HTML/CSS, JS)
 
 
 
