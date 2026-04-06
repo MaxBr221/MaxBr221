@@ -21,10 +21,10 @@
 
 ---
 ### 📌 Projetos em destaque
-- 🧔 Sistema de Agendamento de Barbearia (JAVA, JAVALIN, THYMELEAF, HTML/CSS, MYSQL, JS)
-- 🏹 Sistema de Turismo Indigena (JAVA, SPRING BOOT, JPA, FLYWAY, HIBERNATE, TESTE UNITÁRIOS, MYSQL, HTML/CSS, JS)
-- 🛒 Sistema de Caixa (JAVA, POO e regras de negócio)
-- 📚 Sistema de Biblioteca (JAVA, terminal, POO)
+- 🧔 Sistema de Agendamento de Barbearia (Java, Javalin, Thymeleaf, Html/Css, MySql, Js)
+- 🏹 Sistema de Turismo Indigena (Java, Spring Boot, Jpa, Flyway, Hibernate, Teste Unitário, MySql, Html/Css, Js)
+- 🛒 Sistema de Caixa (Java, POO e regras de negócio)
+- 📚 Sistema de Biblioteca (Java, terminal, POO)
 
 
 
