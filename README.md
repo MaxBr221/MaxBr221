@@ -1,4 +1,4 @@
-# Olá, eu sou o Maxsuel! 👋
+# Olá, eu sou o Maxsuel Lima! 👋
 
 ### Fullstack Developer | Java, Spring Boot & React
 Atualmente graduando em Sistemas de Informação na **UFPB**. Focado em construir soluções robustas no backend e interfaces dinâmicas no frontend.
