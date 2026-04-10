@@ -15,11 +15,30 @@ Atualmente graduando em Sistemas de Informação na **UFPB**. Focado em construi
 
 ### 🚀 Projetos em Destaque
 
-#### 📍 Projeto Turismo
-*Sistema de gestão de pontos turísticos e avaliações, utilizando Java e Spring Boot com migrations automatizadas (Flyway).*
-- **Techs:** `Java` `Spring Boot` `PostgreSQL` `Flyway` `Hibernate`
-- [Repositório aqui](https://github.com/MaxBr221/projeto_turismo)
-
+<table border="0">
+<tr>
+<td width="50%" valign="top">
+<h4>📍 Projeto Turismo</h4>
+<p><em>Plataforma Fullstack para gestão de roteiros e avaliações turísticas, com ambiente isolado via Docker e arquitetura desacoplada.</em></p>
+<ul>
+<li><strong>Frontend:</strong> React</li>
+<li><strong>Backend:</strong> Java & Spring Boot</li>
+<li><strong>DB & Infra:</strong> MySQL & Docker</li>
+<li><a href="https://github.com/MaxBr221/projeto_turismo">Ver Repositório →</a></li>
+</ul>
+</td>
+<td width="50%" valign="top">
+<h4>💈 Sistema Barbearia</h4>
+<p><em>Aplicação SSR (Server-Side Rendering) para agendamentos, utilizando Javalin para uma estrutura leve e eficiente.</em></p>
+<ul>
+<li><strong>Frontend:</strong> Thymeleaf, JS, CSS</li>
+<li><strong>Backend:</strong> Java & Javalin</li>
+<li><strong>DB:</strong> MySQL</li>
+<li><a href="https://github.com/MaxBr221/barbearia">Ver Repositório →</a></li>
+</ul>
+</td>
+</tr>
+</table>
 ---
 
 ### 🛠 Minha Stack
@@ -48,7 +67,3 @@ Atualmente graduando em Sistemas de Informação na **UFPB**. Focado em construi
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MaxBr221&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MaxBr221&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MaxBr221&theme=tokyonight" />
-</p>
