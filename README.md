@@ -1,14 +1,14 @@
 # Olá, eu sou o Maxsuel! 👋
 
-### Fullstack Developer em formação | Java & Spring Boot Enthusiast
+### Fullstack Developer | Java, Spring Boot & React
 Atualmente graduando em Sistemas de Informação na **UFPB**. Focado em construir soluções robustas no backend e interfaces dinâmicas no frontend.
 
 ---
 
 ### 🌐 Conecte-se comigo
 <p align="left">
-<a href="https://linkedin.com/in/SEU_LINK_AQUI" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="mailto:seuemail@exemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://linkedin.com/in/maxsuel-de-lima-barbosa-5a27a635b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="mailto:maxsuelcombr941@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </p>
 
 ---
@@ -31,10 +31,10 @@ Atualmente graduando em Sistemas de Informação na **UFPB**. Focado em construi
 <h4>💈 Sistema Barbearia</h4>
 <p><em>Aplicação SSR (Server-Side Rendering) para agendamentos, utilizando Javalin para uma estrutura leve e eficiente.</em></p>
 <ul>
-<li><strong>Frontend:</strong> Thymeleaf, JS, CSS</li>
+<li><strong>Frontend:</strong> Thymeleaf, JS, HTML/CSS</li>
 <li><strong>Backend:</strong> Java & Javalin</li>
 <li><strong>DB:</strong> MySQL</li>
-<li><a href="https://github.com/MaxBr221/barbearia">Ver Repositório →</a></li>
+<li><a href="https://github.com/MaxBr221/Sistema_Barbearia">Ver Repositório →</a></li>
 </ul>
 </td>
 </tr>
@@ -62,8 +62,14 @@ Atualmente graduando em Sistemas de Informação na **UFPB**. Focado em construi
 
 ### 📊 GitHub Stats
 
+### 📊 GitHub Stats
+
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MaxBr221&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MaxBr221&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxBr221&layout=compact&langs_count=7&theme=tokyonight" />
 </p>
 
