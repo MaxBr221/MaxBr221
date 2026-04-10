@@ -20,7 +20,7 @@ Atualmente graduando em Sistemas de Informação na **UFPB**. Focado em construi
 <table border="0">
 <tr>
 <td width="50%" valign="top">
-<h4>📍 Projeto Turismo</h4>
+<h4>📍 PROJETO TURISMO </h4>
 <p><em>Plataforma Fullstack para gestão de roteiros e avaliações turísticas, com ambiente isolado via Docker e arquitetura desacoplada.</em></p>
 <ul>
 <li><strong>Frontend:</strong> React</li>
@@ -30,7 +30,7 @@ Atualmente graduando em Sistemas de Informação na **UFPB**. Focado em construi
 </ul>
 </td>
 <td width="50%" valign="top">
-<h4>💈 Sistema Barbearia</h4>
+<h4>💈 SISTEMA BARBEARIA </h4>
 <p><em>Aplicação SSR (Server-Side Rendering) para agendamentos, utilizando Javalin para uma estrutura leve e eficiente.</em></p>
 <ul>
 <li><strong>Frontend:</strong> Thymeleaf, JS, HTML/CSS</li>
