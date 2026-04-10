@@ -1,49 +1,53 @@
-<h1 align="center">👋 Olá, eu sou o Maxsuel</h1>
+# Olá, eu sou o Maxsuel! 👋
 
-<p align="center">
-  🎓 Estudante de <b>Sistemas de Informação (UFPB)</b><br>
-  💻 Desenvolvedor em formação com foco em <b>Java e desenvolvimento de software</b>
+### Fullstack Developer em formação | Java & Spring Boot Enthusiast
+Atualmente graduando em Sistemas de Informação na **UFPB**. Focado em construir soluções robustas no backend e interfaces dinâmicas no frontend.
+
+---
+
+### 🌐 Conecte-se comigo
+<p align="left">
+<a href="https://linkedin.com/in/SEU_LINK_AQUI" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="mailto:seuemail@exemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </p>
 
 ---
 
-### 💻 Stack atual
+### 🚀 Projetos em Destaque
+
+#### 📍 Projeto Turismo
+*Sistema de gestão de pontos turísticos e avaliações, utilizando Java e Spring Boot com migrations automatizadas (Flyway).*
+- **Techs:** `Java` `Spring Boot` `PostgreSQL` `Flyway` `Hibernate`
+- [Repositório aqui](https://github.com/MaxBr221/projeto_turismo)
+
+---
+
+### 🛠 Minha Stack
+
+**Backend**
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Frontend**
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+**DevOps / Ferramentas**
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45px" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45px" alt="Spring Boot"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45px" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45px" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45px" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45px" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45px" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45px" alt="PostgreSQL"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MaxBr221&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MaxBr221&theme=tokyonight" />
 </p>
 
-
----
-### 📌 Projetos em destaque
-- 🧔 Sistema de Agendamento de Barbearia (Java, Javalin, Thymeleaf, Html/Css, MySql, Js)
-- 🏹 Sistema de Turismo Indigena (Java, Spring Boot, Jpa, Flyway, Hibernate, Teste Unitário, MySql, Html/Css, Js)
-- 🛒 Sistema de Caixa (Java, POO e regras de negócio)
-- 📚 Sistema de Biblioteca (Java, terminal, POO)
-
-
-
----
-
-### 🔗 Contato
 <p align="center">
-  <a href="mailto:maxsuel.lima@dcx.ufpb.br">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/maxsuel-de-lima-barbosa-5a27a635b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxBr221&layout=compact&langs_count=7&theme=tokyonight" />
 </p>
-
----
-
-### ⚡ Sobre mim
-- Foco em **Java**, **Spring Boot** e **SQL**
-- Experiência com projetos acadêmicos e pessoais
-- Estudando **Full Stack** com base sólida em backend
