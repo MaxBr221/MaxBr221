@@ -66,6 +66,10 @@ Atualmente graduando em Sistemas de Informação na **UFPB**. Focado em construi
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MaxBr221&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MaxBr221&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MaxBr221&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&v=10042026" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MaxBr221&theme=tokyonight&v=10042026" />
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxBr221&layout=compact&langs_count=7&theme=tokyonight&v=10042026" />
 </p>
