@@ -8,7 +8,7 @@ Atualmente graduando em Sistemas de Informação na **UFPB**. Focado em construi
 ### 🌐 Conecte-se comigo
 <p align="left">
 <a href="https://linkedin.com/in/maxsuel-de-lima-barbosa-5a27a635b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="maxsuel.lima@dcx.ufpb.br"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="mailto:maxsuel.lima@dcx.ufpb.br"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </p>
 
 ---
